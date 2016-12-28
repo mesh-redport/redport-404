@@ -1,0 +1,1 @@
+Esta página cumple el objetivo de notificar a los usuarios que deben conectarse a la red wiki de *REDPORT* para acceder al servicio. Esta página sólo es visible desde Internet, es decir, para aquellas personas que cuentan con una conxión convensional.
